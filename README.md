@@ -4,4 +4,15 @@ This is a dummy repository I made so you can practice making pull requests. I cr
 
 Want to practice making pull requests? Just add one here and I'll accept it. Have fun ;)
 
+**What you can practice here:**
+
+* Creating a branch
+* Making code changes
+* Committing your changes
+* Pushing your changes to GitHub
+* Creating a pull request
+* Responding to code review feedback
+* Merging your pull request
+
+
 This is amazing... :) 
